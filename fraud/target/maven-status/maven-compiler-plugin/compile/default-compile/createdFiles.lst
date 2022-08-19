@@ -1,0 +1,7 @@
+com\egadaservices\fraud\service\FraudCheckService.class
+com\egadaservices\fraud\controller\FraudController.class
+com\egadaservices\fraud\model\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\egadaservices\fraud\repository\FraudCheckHistoryRepository.class
+com\egadaservices\fraud\service\FraudCheckHistoryImpl.class
+com\egadaservices\fraud\model\FraudCheckHistory.class
+com\egadaservices\fraud\FraudApplication.class

@@ -1,0 +1,9 @@
+com\egadaservices\notification\rabbitmq\NotificationConsumer.class
+com\egadaservices\notification\configuration\NotificationConfig.class
+com\egadaservices\notification\controller\NotificationController.class
+com\egadaservices\notification\model\Notification.class
+com\egadaservices\notification\service\NotificationServiceImpl.class
+com\egadaservices\notification\repository\NotificationRepository.class
+com\egadaservices\notification\NotificationApplication.class
+com\egadaservices\notification\model\Notification$NotificationBuilder.class
+com\egadaservices\notification\service\NotificationService.class

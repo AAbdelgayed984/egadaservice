@@ -1,0 +1,8 @@
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\service\NotificationServiceImpl.java
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\model\Notification.java
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\NotificationApplication.java
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\repository\NotificationRepository.java
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\controller\NotificationController.java
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\rabbitmq\NotificationConsumer.java
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\configuration\NotificationConfig.java
+C:\projects\egadaservices\notification\src\main\java\com\egadaservices\notification\service\NotificationService.java

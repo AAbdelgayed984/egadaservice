@@ -1,0 +1,8 @@
+com\egadaservices\customer\controller\CustomerController.class
+com\egadaservices\customer\service\CustomerService.class
+com\egadaservices\customer\CustomerApplication.class
+com\egadaservices\customer\model\Customer.class
+com\egadaservices\customer\service\CustomerServiceImpl.class
+com\egadaservices\customer\model\Customer$CustomerBuilder.class
+com\egadaservices\customer\repository\CustomerRepository.class
+com\egadaservices\customer\configuration\CustomerConfig.class

@@ -1,0 +1,4 @@
+com\egadaservices\clients\fraud\FraudCheckResponse.class
+com\egadaservices\clients\fraud\FraudClient.class
+com\egadaservices\clients\notification\NotificationRequest.class
+com\egadaservices\clients\notification\NotificationClient.class
